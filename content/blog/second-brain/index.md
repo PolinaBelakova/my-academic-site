@@ -9,23 +9,23 @@ tags:
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
+# cover:
+#   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+#   position:
+#     x: 50
+#     y: 40
+#   overlay:
+#     enabled: true
+#     type: "gradient"
+#     opacity: 0.4
+#     gradient: "bottom"
+#   fade:
+#     enabled: true
+#     height: "80px"
+#   icon:
+#     name: "✨"
 ---
-
+ 
 Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
