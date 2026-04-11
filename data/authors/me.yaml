@@ -49,39 +49,21 @@ education:
     end: 2029-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Стажер
+    org: Python аналитик
     start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+    
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: С++
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: SQL
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: HTML&CSS
+        level: 5
 
 languages:
   - name: English
@@ -91,9 +73,3 @@ languages:
     level: 4
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
