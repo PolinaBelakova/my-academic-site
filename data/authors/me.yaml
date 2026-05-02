@@ -14,19 +14,18 @@ postnominals:
 status:
   icon: "☕️"
 role: 
-bio: |
-  Белакова Полина студентка направления "Прикладная информатика и информационные технологии"
+bio: Белакова Полина студентка направления "Прикладная информатика и информационные технологии"
 
 affiliations:
   - name: Meta AI
     url: https://ai.meta.com/
 
 links:
-  - icon: brands/elibrary
+  - icon: at-symbol
     url: https://elibrary.ru/defaultx.asp
   - icon: brands/github
     url: https://github.com/PolinaBelakova
-  - icon: brands/academia.edu
+  - icon: at-symbol
     url: https://independent.academia.edu/ПолинаБелакова
   - icon: academicons/google-scholar
     url: https://scholar.google.com
@@ -40,16 +39,16 @@ interests:
   - Анализ данных
 
 education:
-https://orcid.org/0009-0006-9460-5044  - degree: Бакалавриат по направлению "Прикладная информатика и информационные технологии"
-    institution: РУДН им. Патриса Лумумбы
-    start: 2025-09-01
-    end: 2029-06-30
+ - degree: Бакалавриат по направлению "Прикладная информатика и информационные технологии"
+   institution: РУДН им. Патриса Лумумбы
+   start: 2025-09-01
+   end: 2029-06-30
 
 experience:
   - role: Стажер
     org: Python аналитик
     start: 2020-01-01
-    
+
 skills:
   - name: Технические навыки
     items:
