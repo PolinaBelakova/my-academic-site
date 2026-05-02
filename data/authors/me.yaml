@@ -22,19 +22,16 @@ affiliations:
     url: https://ai.meta.com/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  - icon: brands/elibrary
+    url: https://elibrary.ru/defaultx.asp
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/PolinaBelakova
+  - icon: brands/academia.edu
+    url: https://independent.academia.edu/ПолинаБелакова
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0006-9460-5044
 
 interests:
   - Машинное обучение
@@ -43,7 +40,7 @@ interests:
   - Анализ данных
 
 education:
-  - degree: Бакалавриат по направлению "Прикладная информатика и информационные технологии"
+https://orcid.org/0009-0006-9460-5044  - degree: Бакалавриат по направлению "Прикладная информатика и информационные технологии"
     institution: РУДН им. Патриса Лумумбы
     start: 2025-09-01
     end: 2029-06-30
